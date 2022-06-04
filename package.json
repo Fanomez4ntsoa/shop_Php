@@ -1,0 +1,20 @@
+{
+  "name": "modeshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/styles.scss styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fanomez4ntsoa/shop_Php.git"
+  },
+  "author": "voary Fanomezantsoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fanomez4ntsoa/shop_Php/issues"
+  },
+  "homepage": "https://github.com/Fanomez4ntsoa/shop_Php#readme"
+}
